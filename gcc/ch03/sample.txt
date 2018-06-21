@@ -1,0 +1,4 @@
+文字列: [Hello] [world,] [too]
+文字:   H e l l o
+数値:   100 200 300
+混在:   Hello A 100
